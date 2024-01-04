@@ -1,3 +1,19 @@
+nav .container .navbar-brand {
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+nav .container img {
+  width: 125px;
+  height: 45px;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
+nav .container img:hover {
+  width: 140px;
+}
+  
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
@@ -21,4 +37,12 @@ section {
 
 #contact img:hover {
   width: 180px;
+}
+
+footer {
+  
+}
+
+footer .socials {
+  
 }
